@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Unathi Njabulo Matladi!
 
-<!--
-**h3n77/h3n77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer focused on creating clean, efficient code using **Python** and **SQL**. I love turning complex data into organized, usable applications.
 
-Here are some ideas to get you started:
+### 🛠️ What I'm working on:
+* **LibreTrack:** A relational database manager for personal libraries.
+* **Portfolio Goal:** Completing 4 core repositories to showcase my full-stack capabilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 My Tech Stack:
+* **Languages:** Python, SQL (SQLite/PostgreSQL)
+* **Tools:** Git, GitHub, VS Code
+
+### 📫 How to reach me:
+* **LinkedIn:** www.linkedin.com/in/unathi-matladi
+* **Email:** njabulo.matladi@gmail.com
